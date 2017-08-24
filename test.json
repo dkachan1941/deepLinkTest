@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sibedge.toller",
+    "sha256_cert_fingerprints":
+    ["A2:C8:4E:BE:59:F2:86:C0:AA:DB:76:21:13:58:DA:1D:68:E3:2E:2A:8C:D7:AA:D9:7D:30:97:DD:65:60:66:2A"]
+  }
+}]
